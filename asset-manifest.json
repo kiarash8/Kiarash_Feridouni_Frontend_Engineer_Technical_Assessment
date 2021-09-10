@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.309b69f5.chunk.js",
-    "main.js.map": "/static/js/main.309b69f5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.80dbb8ed.js",
-    "runtime-main.js.map": "/static/js/runtime-main.80dbb8ed.js.map",
-    "static/js/2.0aae0273.chunk.js": "/static/js/2.0aae0273.chunk.js",
-    "static/js/2.0aae0273.chunk.js.map": "/static/js/2.0aae0273.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.0aae0273.chunk.js.LICENSE.txt": "/static/js/2.0aae0273.chunk.js.LICENSE.txt"
+    "main.js": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/main.55fcfc3c.chunk.js",
+    "main.js.map": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/main.55fcfc3c.chunk.js.map",
+    "runtime-main.js": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/runtime-main.4bc163f2.js",
+    "runtime-main.js.map": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/runtime-main.4bc163f2.js.map",
+    "static/js/2.0aae0273.chunk.js": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/2.0aae0273.chunk.js",
+    "static/js/2.0aae0273.chunk.js.map": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/2.0aae0273.chunk.js.map",
+    "index.html": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/index.html",
+    "static/js/2.0aae0273.chunk.js.LICENSE.txt": "/Kiarash_Feridouni_Frontend_Engineer_Technical_Assessment/static/js/2.0aae0273.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.80dbb8ed.js",
+    "static/js/runtime-main.4bc163f2.js",
     "static/js/2.0aae0273.chunk.js",
-    "static/js/main.309b69f5.chunk.js"
+    "static/js/main.55fcfc3c.chunk.js"
   ]
 }
